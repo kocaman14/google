@@ -1,0 +1,134 @@
+.mainnavbar {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+}
+
+.bluebox {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.bluebox:hover {
+    text-decoration: none;
+}
+
+.container1,
+.container2,
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: gray;
+}
+
+.imgnav {
+    width: auto;
+}
+
+.middlebox {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.searchstick {
+    width: 583px;
+    height: 44px;
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    margin: 28px auto;
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+
+.searchstick:hover {
+    box-shadow: 0 0 1px 1px blue;
+}
+
+.keyboard {
+    width: 20px;
+    margin-top: 10px;
+}
+
+.mic {
+    width: 20px;
+}
+
+.magnifier {
+    width: 30px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+
+}
+
+#searctable {
+    margin-left: 35px;
+    width: 460px;
+    border: none;
+    outline: none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+button {
+    margin: 5px;
+    height: 30px;
+    color: grey;
+}
+
+.footerp {
+    display: flex;
+    justify-content: center;
+}
+
+#link {
+    color: blue;
+    text-decoration: none;
+}
+
+.footerturkısh {
+    display: flex;
+    color: grey;
+    background-color: #F0F0F0;
+    margin-top: 100px;
+    border-bottom: 1px solid gray;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.footerturkısh p {
+    padding-left: 20px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footernav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F0F0F0;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    border-radius: 5px;
+}
