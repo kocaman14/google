@@ -1,1 +1,1 @@
-https://kocaman14.github.io/-google/
+https://kocaman14.github.io/#google/
