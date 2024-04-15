@@ -1,14 +1,3 @@
-
-  
-  body {
-width:100%;
-    margin: 0;
-    padding: 0;
-  }
-
-
-
-
 .mainnavbar {
     display: flex;
     width: 100%;
@@ -127,9 +116,7 @@ button {
 }
 
 .footerturkısh p {
-    padding:0;
-    margin:0;
-    width:100%;
+    padding-left: 20px;
 
 }
 
@@ -138,13 +125,14 @@ a:hover {
 }
 
 .footernav {
-    display:flex;
-  justify-content: space-between;
-    bottom: 0;
-    background-color: #f2f2f2;
-    font-size: 14px;
-    line-height: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F0F0F0;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    border-radius: 5px;
 }
+  
 
 
 
