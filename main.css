@@ -140,24 +140,11 @@ a:hover {
 .footernav {
     display:flex;
   justify-content: space-between;
-
     bottom: 0;
     background-color: #f2f2f2;
     font-size: 14px;
     line-height: 40px;
 }
 
-.leftcontainer{
-     
-    padding:0;
-    margin: 0;
-  
-}
-.rightcontainer{
 
-    padding: 0;
-    margin: 0 ;
-  
-  
-}
 
