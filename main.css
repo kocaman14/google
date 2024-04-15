@@ -139,9 +139,8 @@ a:hover {
     display: flex;
     justify-content: space-between;
     background-color: #F0F0F0;
-    padding-bottom:auto;
-    margin-bottom:auto;
-    width:auto;
+   height:100%;
+    weight:100%;
     border-bottom: 1px solid grey;
     border-radius: 5px;
 }
