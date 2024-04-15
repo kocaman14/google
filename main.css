@@ -116,10 +116,9 @@ button {
 }
 
 .footerturkısh {
-    display: flex;
     color: grey;
     background-color: #F0F0F0;
-    margin-top: 100px;
+    margin-bottom: 0;
     border-bottom: 1px solid gray;
     border-radius: 5px;
     height: 40px;
