@@ -1,12 +1,16 @@
-*{
-    padding:0;
-    margin:0;
-}
-
+html {
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
 
 .mainnavbar {
     display: flex;
-    width: 100%;
     justify-content: space-between;
 }
 
@@ -134,10 +138,18 @@ a:hover {
     display: flex;
     justify-content: space-between;
     background-color: #F0F0F0;
-  padding-bottom:100½;
-    border-bottom: 1px solid grey;
-    border-radius: 5px;
-}
+   
+ }
+ footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 40px;
+    
+ }
+
   
 
 
