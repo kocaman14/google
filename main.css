@@ -137,8 +137,9 @@ a:hover {
     display: flex;
     justify-content: space-between;
     background-color: #F0F0F0;
-    padding:0;
-    margin-bottom:0;
+    padding-bottom:auto;
+    margin-bottom:auto;
+    width:auto;
     border-bottom: 1px solid grey;
     border-radius: 5px;
 }
