@@ -2,12 +2,7 @@
     padding:0;
     margin:0;
 }
-body{
-    padding:0;
-    margin:0;
-    height:100%;
-    wight:100%;
-}
+
 
 .mainnavbar {
     display: flex;
@@ -138,10 +133,8 @@ a:hover {
 .footernav {
     display: flex;
     justify-content: space-between;
-    justify-content:flex-end;
     background-color: #F0F0F0;
-   height:100%;
-    weight:100%;
+  padding-bottom:100½;
     border-bottom: 1px solid grey;
     border-radius: 5px;
 }
