@@ -138,6 +138,7 @@ a:hover {
 .footernav {
     display: flex;
     justify-content: space-between;
+    justify-content:flex-end;
     background-color: #F0F0F0;
    height:100%;
     weight:100%;
