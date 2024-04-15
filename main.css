@@ -127,7 +127,7 @@ button {
 }
 
 .footerturkısh p {
-    padding-left: 20px;
+    padding:0;
     margin:0;
     width:100%;
 
@@ -138,7 +138,9 @@ a:hover {
 }
 
 .footernav {
-    position: fixed;
+    display:flex;
+  justify-content: space-between;
+
     bottom: 0;
     width: 100%;
     background-color: #f2f2f2;
@@ -147,18 +149,16 @@ a:hover {
 }
 
 .leftcontainer{
-     display: flex;
-    justify-content: flex-start;   
-    padding-left: 23px;   
+     
+    padding:0;
     margin: 0;
   
 }
 .rightcontainer{
-display: flex;
-    justify-content: flex-end;
+
     padding: 0;
-    margin: 0 12px 0 0;
-    
+    margin: 0 ;
+  
   
 }
 
